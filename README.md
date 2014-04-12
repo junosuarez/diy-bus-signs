@@ -1,4 +1,4 @@
-diy-bus-sign
+diy-bus-signs
 ============
 
 print your own signage for your favorite bus stop
